@@ -1,0 +1,20 @@
+################
+#idea/wish list#
+################
+
+
+****Banner idseas****
+
+show user currrent online time counting 
+grouping of blanks to assigments.
+
+
+
+
+
+
+
+****channle create ideas ****
+
+wacth channel for limit then create a new sub channel when main selected room reaches max.
+create channel with channle permission enabled b_client_force_push_to_talk.
